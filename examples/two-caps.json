@@ -1,0 +1,6 @@
+{
+  "joints": [
+    {"name":"shoulder","start_deg":0,"goal_deg":90,"max_deg_s":90,"max_deg_s2":180},
+    {"name":"elbow","start_deg":0,"goal_deg":-45,"max_deg_s":30,"max_deg_s2":120}
+  ]
+}

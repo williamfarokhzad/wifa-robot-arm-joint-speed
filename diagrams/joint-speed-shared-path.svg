@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="504" viewBox="0 0 800 504" role="img" aria-labelledby="title desc"><title id="title">Shared progress fixes the path</title><desc id="desc">The shoulder angle increases as the elbow angle decreases.</desc>
+<rect width="800" height="504" rx="24" fill="#f2f9fb"/>
+<g font-family="DejaVu Sans,sans-serif" fill="#122e45">
+<text x="37" y="46" font-size="27" font-weight="700">Shared progress fixes the path</text>
+<text x="38" y="78" font-size="19">The shoulder angle increases as the elbow angle decreases.</text>
+<path d="M96 367.62H758" stroke="#c8dce3"/><text x="86" y="373.62" font-size="18" text-anchor="end">-1</text>
+<path d="M96 294.88H758" stroke="#c8dce3"/><text x="86" y="300.88" font-size="18" text-anchor="end">1</text>
+<path d="M96 222.12H758" stroke="#c8dce3"/><text x="86" y="228.12" font-size="18" text-anchor="end">3</text>
+<path d="M96 149.38H758" stroke="#c8dce3"/><text x="86" y="155.38" font-size="18" text-anchor="end">5</text>
+<path d="M143.29 404v7" stroke="#718a98"/><text x="143.29" y="431" font-size="18" text-anchor="middle">10</text>
+<path d="M285.14 404v7" stroke="#718a98"/><text x="285.14" y="431" font-size="18" text-anchor="middle">13</text>
+<path d="M427.00 404v7" stroke="#718a98"/><text x="427.00" y="431" font-size="18" text-anchor="middle">16</text>
+<path d="M568.86 404v7" stroke="#718a98"/><text x="568.86" y="431" font-size="18" text-anchor="middle">19</text>
+<path d="M710.71 404v7" stroke="#718a98"/><text x="710.71" y="431" font-size="18" text-anchor="middle">22</text>
+<path d="M96 113V404H758" fill="none" stroke="#718a98" stroke-width="1.5"/>
+<polyline points="143.29,149.38 146.12,150.47 154.63,153.74 168.82,159.20 188.68,166.84 214.21,176.66 245.42,188.66 282.31,202.85 324.86,219.22 373.09,237.77 427.00,258.50 480.91,279.23 529.14,297.78 571.69,314.15 608.58,328.34 639.79,340.34 665.32,350.17 685.18,357.80 699.37,363.26 707.88,366.53 710.71,367.62" fill="none" stroke="#066f78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M112 476h35" stroke="#066f78" stroke-width="4"/><text x="159" y="482" font-size="18">Same path fraction</text>
+<polyline points="143.29,149.38 710.71,149.38 710.71,367.62" fill="none" stroke="#a84c18" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 6"/>
+<path d="M444 476h35" stroke="#a84c18" stroke-width="4" stroke-dasharray="10 6"/><text x="491" y="482" font-size="18">Shoulder first, elbow second</text>
+<text x="428" y="455" text-anchor="middle" font-size="18">Shoulder angle (deg)</text>
+<text transform="translate(25 260) rotate(-90)" text-anchor="middle" font-size="18">Elbow angle (deg)</text>
+</g></svg>
